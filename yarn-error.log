@@ -1,0 +1,27 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\udarasen\.node\corepack\yarn\1.22.15\bin\yarn.js add --dev prettier
+
+PATH: 
+  C:\Program Files\VanDyke Software\Clients\;C:\Python39\Scripts\;C:\Python39\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\IDM Computer Solutions\UltraEdit;C:\Program Files\IDM Computer Solutions\UltraCompare;C:\Program Files\PuTTY\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\udarasen\AppData\Local\Microsoft\WindowsApps;C:\Users\udarasen\AppData\Local\Programs\Microsoft VS Code\bin;c:\users\udarasen\.local\bin;c:\users\udarasen\appdata\roaming\python\python39\scripts;C:\Users\udarasen\AppData\Roaming\npm;;D:\Programming\BlockChain\IPFS\go-ipfs_v0.12.0\go-ipfs
+
+Yarn version: 
+  1.22.15
+
+Node version: 
+  16.15.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND registry.yarnpkg.com
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
